@@ -9,7 +9,7 @@ package pl.garnek;
  */
 public class Klasa1 {
 
-	private static int nic = 5;
+	private static int nic = 6;
 	
 	public static void main(String[] args) {
 		System.out.println(nic);
